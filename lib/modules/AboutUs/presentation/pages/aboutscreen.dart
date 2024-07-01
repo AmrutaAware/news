@@ -14,6 +14,7 @@ class _AboutPageViewState extends State<AboutPageView> {
   Widget build(BuildContext context) {
     return Scaffold(
       
-      body: 
+      
     );
   }
+}
