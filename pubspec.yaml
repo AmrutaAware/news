@@ -33,11 +33,10 @@ dependencies:
     sdk: flutter
   font_awesome_flutter: ^10.7.0
   smooth_page_indicator: ^1.1.0
-carousel_slider: ^4.2.1
-smooth_page_indicator: ^1.1.0
+
 http: ^1.2.1
 cached_network_image: ^3.3.1
-font_awesome_flutter: ^10.7.0
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -61,7 +60,7 @@ flutter_test:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
-  flutter:
+flutter:
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
@@ -70,7 +69,6 @@ flutter_test:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-   #- assets/
     - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/business.jpg
     - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/entertainment.jpg
     - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/health.jpg
@@ -85,8 +83,11 @@ flutter_test:
     - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/race.jpg
     - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/cycle.jpg
     - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/gym.jpg
-    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/sports1.jpg
-
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/FAST NEWS.jpeg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/News vector background, breaking news_.jpeg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/Focus Group Transcription Services _ 1-888-TYPE-IT-UP.jpeg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/Free Vector _ People use smartphones to receive news in their daily life_.jpeg
+   
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 

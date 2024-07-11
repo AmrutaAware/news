@@ -20,15 +20,15 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: isDarkMode ? ThemeData.dark() : ThemeData.light(),
-      home: HomePage(
-        isDarkMode: isDarkMode,
-        toggleTheme: () {
-          setState(() {
-            isDarkMode = !isDarkMode;
-          });
-        },
-      ),
-     // home: AboutPageView(),
+      // home: HomePage(
+      //   isDarkMode: isDarkMode,
+      //   toggleTheme: () {
+      //     setState(() {
+      //       isDarkMode = !isDarkMode;
+      //     });
+      //   },
+      // ),
+      home: AboutPageView(),
      
     );
   }

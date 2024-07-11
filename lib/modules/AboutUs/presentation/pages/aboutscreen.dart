@@ -42,7 +42,7 @@ class _AboutPageViewState extends State<AboutPageView> {
                     SizedBox(height: 20),
                     ClipOval(
                       child: Image.asset(
-                        'assets/images/News vector background, breaking news_.jpeg',
+                        'asset/News vector background, breaking news_.jpeg',
                         height: 200,
                         width: 200,
                         fit: BoxFit.cover,
@@ -59,19 +59,19 @@ class _AboutPageViewState extends State<AboutPageView> {
                   ResponsiveRow(
                     children: [
                       FeatureCard(
-                        imagePath: 'assets/images/FAST NEWS.jpeg',
+                        imagePath: 'asset/FAST NEWS.jpeg',
                         title: 'SUPER FAST',
                         description:
                             'Get the latest news at lightning speed, so you never miss out on important updates.',
                       ),
                       FeatureCard(
-                        imagePath: 'assets/Focus Group Transcription Services _ 1-888-TYPE-IT-UP.jpeg',
+                        imagePath: 'asset/Focus Group Transcription Services _ 1-888-TYPE-IT-UP.jpeg',
                         title: 'FOR SUBSCRIBERS',
                         description:
                             'Exclusive content and features for our subscribers to stay ahead of the curve.',
                       ),
                       FeatureCard(
-                        imagePath: 'assets/Free Vector _ People use smartphones to receive news in their daily life_.jpeg',
+                        imagePath: 'asset/Free Vector _ People use smartphones to receive news in their daily life_.jpeg',
                         title: 'KEEP IT SIMPLE',
                         description:
                             'A beautifully designed interface to enhance your reading experience.',
