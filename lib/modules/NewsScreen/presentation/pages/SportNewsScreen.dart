@@ -160,61 +160,61 @@ class _HomePageState extends State<HomePage> {
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/sports1.jpg",
+                image: "asset/sports1.jpg",
                 title: "Rui Coasta outsprints breakaway to win stage 15",
                 description: "Then a final kick to beat lennard kamna",
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/tennis.jpg",
+                image: "asset/tennis.jpg",
                 title: "Epic Tennis Showdown",
                 description: "A thrilling tennis match that went down to the wire."
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/football.jpg",
+                image: "asset/football.jpg",
                 title: "Football Championship Highlights",
                 description: "Top moments from the football championship.",
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/race.jpg",
+                image: "asset/race.jpg",
                 title: "Marathon Winner's Inspiring Story",
                 description: "The journey of the marathon winner.",
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/basket.jpg",
+                image: "asset/basket.jpg",
                 title: "Basketball Finals Recap", 
                 description: "An exciting recap of the basketball finals.",
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/cricket.jpg",
+                image: "asset/cricket.jpg",
                 title: "Cricket World Cup Analysis",
                 description: "A detailed analysis of the Cricket World Cup.",
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/swim.jpg",
+                image: "asset/swim.jpg",
                 title: "Swim Meet Results",
                 description: "Highlights from the latest swim meet.",
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/gym.jpg",
+                image: "asset/gym.jpg",
                 title: "Gymnastics Competition Winners",
                 description: "Top performers in the gymnastics competition.",
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/golf.jpg",
+                image: "asset/golf.jpg",
                 title: "Golf Tournament Highlights",
                 description: "Key moments from the golf tournament.",
               ),
               const SizedBox(height: 10.0),
               buildNewsItem(
-                image: "assets/images/cycle.jpg",
+                image: "asset/cycle.jpg",
                 title: "Cycling Race Update",
                 description: "Latest updates from the cycling race.",
               ),
@@ -418,7 +418,7 @@ class _HomePageState extends State<HomePage> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Image.asset('assets/images/telphatech_logo.png', height: 50),
+                Image.asset('asset/images/telphatech_logo.png', height: 50),
                 const SizedBox(height: 10),
                 const Text(
                   'About Us',

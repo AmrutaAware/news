@@ -7,27 +7,27 @@ List<CategoryModel> getCategories(){
   CategoryModel categoryModel = new CategoryModel();
 
   categoryModel.categoryName="Business";
-  categoryModel.image="assets/images/business.jpg";
+  categoryModel.image="asset/business.jpg";
   category.add(categoryModel);
   categoryModel= new CategoryModel();
 
   categoryModel.categoryName="Entertainment";
-  categoryModel.image="assets/images/entertainment.jpg";
+  categoryModel.image="asset/entertainment.jpg";
   category.add(categoryModel);
   categoryModel= new CategoryModel();
 
   categoryModel.categoryName="Health";
-  categoryModel.image="assets/images/health.jpg";
+  categoryModel.image="asset/health.jpg";
   category.add(categoryModel);
   categoryModel= new CategoryModel();
 
   categoryModel.categoryName="Politics";
-  categoryModel.image="assets/images/politics.jpg";
+  categoryModel.image="asset/politics.jpg";
   category.add(categoryModel);
   categoryModel= new CategoryModel();
 
   categoryModel.categoryName="Sports";
-  categoryModel.image="assets/images/sports.jpg";
+  categoryModel.image="asset/sports.jpg";
   category.add(categoryModel);
   categoryModel= new CategoryModel();
 

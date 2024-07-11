@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:telphanews/modules/AboutUs/presentation/pages/aboutscreen.dart';
 import 'package:telphanews/modules/NewsScreen/presentation/pages/SportNewsScreen.dart';
 
 
@@ -27,6 +28,8 @@ class _MyAppState extends State<MyApp> {
           });
         },
       ),
+     // home: AboutPageView(),
+     
     );
   }
 }

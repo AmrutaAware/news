@@ -69,22 +69,23 @@ flutter_test:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-assets:
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\business.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\entertainment.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\health.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\politics.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\sports.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\cricket.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\basket.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\tennis.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\golf.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\football.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\swim.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\race.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\cycle.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\gym.jpg
-  -C:\Users\Saloni\Documents\GitHub\top10_news\assets\images\sports1.jpg
+  assets:
+   #- assets/
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/business.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/entertainment.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/health.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/politics.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/sports.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/cricket.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/basket.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/tennis.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/golf.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/football.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/swim.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/race.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/cycle.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/gym.jpg
+    - /Users/amrutaubale/Amruta/GitHub/top10_news/asset/sports1.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
